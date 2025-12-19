@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: Spectralon BRDF model and tabulated data
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Paul-Elie
+    family-names: Pipelin
+    email: paul-elie.pipelin@entpe.fr
+    orcid: "https://orcid.org/0009-0006-3490-8852"
+    affiliation: ENTPE - MATEREAL
+version: 1.0
+identifiers:
+  - description: This is the collection of archived snapshots of all versions
+    type: doi
+    value: 10.5281/zenodo.17961607
+  - description: This is the related paper
+    type: doi
+    value: 10.1109/LS2566125.2025.11467718
+repository: "https://github.com/ppipelin/spectralon"
+keywords:
+  - spectralon
+  - measurement
+  - reflectance
+  - out-of-plane
+  - backscatter
+license: MIT
+date-released: "2026-04-15"
